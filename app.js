@@ -14,7 +14,6 @@ const partnerRouter = require('./routes/partnerRouter');
 const uploadRouter = require('./routes/uploadRouter');
 
 
-
 const mongoose = require('mongoose');
 
 const url = config.mongoUrl;
